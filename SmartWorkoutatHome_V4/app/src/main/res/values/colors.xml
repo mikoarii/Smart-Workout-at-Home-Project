@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Blue">#2A6BF2</color>
+    <color name="yellow">#FBCD31</color>    <!-- Untuk PROCESSING -->
+    <color name="green">#38F07C</color>     <!-- Untuk CONNECTED -->
+    <color name="light_green">#4CAF50</color>
+    <color name="Bluessea">#00BBD2</color>
+    <color name="darkblue">#3949AB</color>
+    <color name="red">#E24033</color>       <!-- Untuk ERROR/DISCONNECTED -->
+
+    <color name="pushup_color">#FF6B6B</color>
+    <color name="squat_color">#4ECDC4</color>
+    <color name="card_bg">#1E1E2D</color>
+    <color name="accent">#FFD166</color>
+
+    <!-- Untuk Push Up & Squat -->
+    <color name="pushup_primary">#FF6B6B</color>
+    <color name="pushup_dark">#FF5252</color>
+
+    <color name="squat_primary">#4ECDC4</color>
+    <color name="squat_dark">#26A69A</color>
+
+    <!-- Warna umum -->
+    <color name="card_item_bg">#252538</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#A0A0B0</color>
+
+    <!-- Primary Colors -->
+    <color name="primary">#6C63FF</color>       <!-- Ungu utama -->
+    <color name="primary_dark">#5A52D3</color>  <!-- Ungu lebih gelap -->
+    <color name="primary_light">#8A84FF</color> <!-- Ungu lebih terang -->
+
+    <!-- Existing colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- Zone colors for visual feedback -->
+    <color name="zone_ideal">#4CAF50</color>      <!-- Green -->
+    <color name="zone_acceptable">#FFC107</color> <!-- Yellow -->
+    <color name="zone_correction">#FF9800</color> <!-- Orange -->
+    <color name="zone_out">#F44336</color>        <!-- Red -->
+
+    <!-- Status colors -->
+    <color name="status_connected">#4CAF50</color>
+    <color name="status_disconnected">#F44336</color>
+    <color name="status_processing">#2196F3</color>
+
+</resources>

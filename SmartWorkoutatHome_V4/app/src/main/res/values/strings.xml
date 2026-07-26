@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Workout at Home</string>
+
+    <!-- buat summary -->
+    <string name="total_session">Total Session</string>
+    <string name="total_repetitions">Total Repetitions</string>
+    <string name="history">History</string>
+</resources>
